@@ -12,7 +12,7 @@ For Database import:
 
 1. Open xampp and turn on Apache and MySQL
 1. Open browser and search localhost/phpmyadmin/
-3. Go to Import at the navbar and click Choose File and search the database file in 4. xampp/htdocs/LGUniversity/db_univerity.sql
+3. Go to Import at the navbar and click Choose File and search the database file in xampp/htdocs/LGUniversity/db_univerity.sql
 4. Once you've selected the file, scroll down click the Import button
 
 For Accessing the application:
