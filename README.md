@@ -18,7 +18,7 @@ For Database import:
 For Accessing the application:
 
 1. Search in the browser http://localhost/lguniversity/index.html
-2. The navigation allows you to choose what you want to do within the application. Be it add/edit/delete a course, check the database, etc.
+2. The navigation allows you to choose what you want to do within the application. Be it add/edit/delete a course, check what has been registered, etc.
 3. You can navigate the application and add/edit/delete any information you want.
 
 In case sql won't run:
